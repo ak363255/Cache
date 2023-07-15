@@ -1,6 +1,6 @@
 
 # Cache 
- Cache The aim of this project is to provide efficient implementations of a Last Recently Used (LRU) Cache in which both, the get and put operations are O(1) in terms of time complexity.
+ Cache The aim of this project is to provide efficient implementations of a Cache in which both, the get and put operations are O(1) in terms of time complexity.
 
 
 ## Disclaimer
